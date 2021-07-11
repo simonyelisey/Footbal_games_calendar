@@ -16,3 +16,4 @@ next three games definition script
 Полезные ссылки: 
 - https://www.applydatascience.com/airflow/writing-your-first-pipeline/
 - https://cloud.google.com/bigquery/docs/tutorials
+- http://datalytics.ru/all/kak-ispolzovat-google-bigquery-s-pomoschyu-python/
