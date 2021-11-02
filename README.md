@@ -1,5 +1,5 @@
 # Footbal_games_calendar
-next three games definition script
+next three games definition Python script
 
 В данном проекте я реализовал скрипт **Python**, который:
 
